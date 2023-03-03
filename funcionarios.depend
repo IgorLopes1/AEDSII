@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1677781713 source:c:\users\win 8.1\documents\aedsii\funcionarios\funcionarios.c
+	"funcionarios.h"
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	<time.h>
+	<math.h>
+
+1677782210 c:\users\win 8.1\documents\aedsii\funcionarios\funcionarios.h
+	<stdlib.h>
+	<stdio.h>
+
+1677781370 source:c:\users\win 8.1\documents\aedsii\funcionarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"funcionarios.h"
+	<time.h>
+
+1677782230 source:c:\users\win 8.1\documents\aedsii\tp01 - igor lopes viana - 20.2.8118\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"funcionarios.h"
+	<time.h>
+
+1677782210 c:\users\win 8.1\documents\aedsii\tp01 - igor lopes viana - 20.2.8118\funcionarios.h
+	<stdlib.h>
+	<stdio.h>
+
